@@ -8,3 +8,4 @@ With this setting, the vercel deployment will use the wrong pnpm version. (fallb
 
 <img width="745" alt="スクリーンショット 2022-06-09 16 31 13" src="https://user-images.githubusercontent.com/16288797/172790416-f85b3c0f-5aeb-4667-bd0f-33407bbc375b.png">
 
+But if we turn off `Install Command` it can detect pnpm version correctly.
